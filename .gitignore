@@ -1,4 +1,6 @@
 carrots2.iml
+.idea/
+out/
 
 ### Java template
 *.class
